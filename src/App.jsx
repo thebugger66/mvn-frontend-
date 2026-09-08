@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-100 flex items-center justify-center p-6">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-lg p-6">
-        <h1 className="text-2xl font-bold text-slate-800 mb-1">Student App</h1>
+        <h1 className="text-2xl font-bold text-slate-800 mb-1">Student App for management 121    </h1>
         <p className="text-sm text-slate-500 mb-4">Frontend (Vite + Tailwind) → Backend (Spring Boot)</p>
 
         {error && (

@@ -6,6 +6,7 @@ on:
 env:
   AWS_REGION: ap-south-1
   ECR_REPOSITORY: student-frontend
+  ECR_REPOSITORY: student-backend
   ECS_CLUSTER: fluffy-bat-3tibzr
   ECS_SERVICE: student-frontend-task-service-3wkmar44
 

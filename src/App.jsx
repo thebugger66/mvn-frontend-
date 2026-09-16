@@ -43,7 +43,7 @@ function App() {
     <div className="min-h-screen bg-slate-100 flex items-center justify-center p-6">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-lg p-6">
         <h1 className="text-2xl font-bold text-slate-800 mb-1">Student App both repo done </h1>
-        <p className="text-sm text-slate-500 mb-4">Frontend (Vite + Tailwind) → Backend (Spring Boot)</p>
+        <p className="text-sm text-slate-500 mb-4">Frontend (Vite + Tailwind) → Backend (Spring Boot) new repo tag</p>
 
         {error && (
           <div className="bg-red-50 text-red-600 text-sm rounded-lg px-3 py-2 mb-4">
